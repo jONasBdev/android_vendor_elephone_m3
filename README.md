@@ -13,7 +13,7 @@ Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | 2.0GHz Octa-Core MT6755 (Helio P10)
 GPU     | Mali-T860
-Memory  | 4GB RAM
+Memory  | 3GB RAM
 Shipped Android Version | 6.0
 Storage | 32GB
 Battery | 3000 mAh
